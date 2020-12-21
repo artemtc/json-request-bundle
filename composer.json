@@ -1,5 +1,5 @@
 {
-    "name": "symfony-bundles/json-request-bundle",
+    "name": "tireconnect/json-request-bundle",
     "type": "symfony-bundle",
     "description": "Symfony JsonRequest Bundle",
     "keywords": ["json", "symfony", "bundle", "angular"],
